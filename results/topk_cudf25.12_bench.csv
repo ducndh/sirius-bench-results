@@ -41,4 +41,4 @@ query,cold_sec,warm_sec,hot_sec,notes
 39,12.455,0.010,0.008,
 40,3.037,0.006,0.005,
 41,1.768,0.005,0.004,
-42,,,,
+42,1.168,0.005,0.004,JIT broken on Q28 but Q42 unaffected
